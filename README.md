@@ -12,8 +12,8 @@ It includes advanced filtering, sorting, validation, and unit tests to ensure re
 
 ## 🚀 Live Demo
 
-🔗 [Live Server](https://your-live-server-link.com)  
-💻 [GitHub Repository](https://github.com/your-username/campaign-management)
+🔗 [Live Server](https://campaign-dashboard-seven.vercel.app/)
+💻 [GitHub Repository](https://github.com/PraveenDangwani/campaign-dashboard.git)
 
 ---
 
@@ -21,7 +21,7 @@ It includes advanced filtering, sorting, validation, and unit tests to ensure re
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/campaign-management.git
+   git clone https://github.com/PraveenDangwani/campaign-dashboard.git
    cd campaign-management
    ```
 ````
